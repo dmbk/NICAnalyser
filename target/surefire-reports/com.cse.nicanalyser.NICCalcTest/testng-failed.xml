@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite verbose="0" name="Failed suite [com.cse.nicanalyser.NICCalcTest]">
+  <test name="Command line test(failed)">
+    <classes>
+      <class name="com.cse.nicanalyser.NICCalcTest">
+        <methods>
+          <include name="setUp"/>
+          <include name="testCalc1"/>
+        </methods>
+      </class> <!-- com.cse.nicanalyser.NICCalcTest -->
+    </classes>
+  </test> <!-- Command line test(failed) -->
+</suite> <!-- Failed suite [com.cse.nicanalyser.NICCalcTest] -->
